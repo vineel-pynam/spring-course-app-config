@@ -14,7 +14,7 @@ okta:
     
 spring:
   zipkin:
-    base-url: http://zipkin-svc:9411
+    baseUrl: http://zipkin-svc:9411
 
 management:
   tracing:
